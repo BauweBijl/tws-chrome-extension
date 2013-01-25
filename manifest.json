@@ -1,0 +1,11 @@
+{
+	"name": "TWS Extension",
+          "version": "1.0",
+          "manifest_version": 2,
+          "description": "TWS extension to manage and create TiddlyWiki's",
+          "browser_action": {
+            "default_icon": "icon.png",
+            "default_popup": "popup.html"
+  }
+
+}
